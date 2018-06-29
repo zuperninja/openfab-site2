@@ -44,8 +44,8 @@ html, body, .reveal div, .reveal span, .reveal applet, .reveal object, .reveal i
 
 html,
 body {
-	width: 100%;
-	height: 100%;
+	width: 90%;
+	height: 90%;
 	overflow: hidden;
 }
 
@@ -392,7 +392,7 @@ body {
 
 	overflow: visible;
 	z-index: 1;
-	text-align: center;
+	text-align: left;
 	perspective: 600px;
 	perspective-origin: 50% 40%;
 }
@@ -834,7 +834,7 @@ body {
 	top: 0;
 	left: 50%;
 	margin: 0;
-	text-align: center;
+	text-align: left;
 }
 
 .no-transforms .reveal .controls,
@@ -1276,7 +1276,7 @@ body {
 		left: 0;
 		top: 45%;
 		width: 100%;
-		text-align: center;
+		text-align: left;
 		letter-spacing: normal;
 	}
 	.reveal .overlay.overlay-preview .x-frame-error  {
@@ -1302,7 +1302,7 @@ body {
 		width: 600px;
 		margin: auto;
 		padding: 20px 20px 80px 20px;
-		text-align: center;
+		text-align: left;
 		letter-spacing: normal;
 	}
 
