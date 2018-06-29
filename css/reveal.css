@@ -37,8 +37,8 @@ html, body, .reveal div, .reveal span, .reveal applet, .reveal object, .reveal i
  *********************************************/
 html,
 body {
-  width: 100%;
-  height: 100%;
+  width: 90%;
+  height: 90%;
   overflow: hidden; }
 
 body {
