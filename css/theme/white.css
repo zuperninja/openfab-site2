@@ -55,7 +55,8 @@ body {
   word-wrap: break-word; }
 
 .reveal h1 {
-  font-size: 2.5em; }
+  font-size: 2.5em;
+  padding-bottom: 1em; }
 
 .reveal h2 {
   font-size: 1.6em; }
@@ -67,7 +68,8 @@ body {
   font-size: 1em; }
 
 .reveal h1 {
-  text-shadow: none; }
+  text-shadow: none;
+  padding-bottom: 1em; }
 
 /*********************************************
  * OTHER
