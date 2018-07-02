@@ -1026,8 +1026,7 @@ body {
 .reveal.overview {
   -webkit-perspective-origin: 50% 50%;
           perspective-origin: 50% 50%;
-  -webkit-perspective: 700px;
-          perspective: 700px; }
+ }
   .reveal.overview .slides {
     -moz-transform-style: preserve-3d; }
   .reveal.overview .slides section {
