@@ -8,7 +8,13 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
-
+body {
+	max-width: 600px;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	margin:0 auto;
+}
 
 /**
  * Basic styling
