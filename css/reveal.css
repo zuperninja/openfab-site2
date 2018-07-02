@@ -48,6 +48,9 @@ body {
   line-height: 1;
   background-color: #111;
   color: #fff; }
+  h1 {
+    padding-bottom: 1em;
+  }
 
 /*********************************************
  * VIEW FRAGMENTS
@@ -610,7 +613,6 @@ body {
 
 .reveal.cube .slides section {
   padding: 30px;
-  min-height: 700px;
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
   box-sizing: border-box;
@@ -691,7 +693,6 @@ body {
 
 .reveal.page .slides section {
   padding: 30px;
-  min-height: 700px;
   box-sizing: border-box;
   -webkit-transform-style: preserve-3d;
           transform-style: preserve-3d; }
